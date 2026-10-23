@@ -1,0 +1,7 @@
+
+autorizacoes.html — Autorizações
+* Clínicas autorizadas
+* Solicitações de acesso
+* Autorizar
+* Recusar
+* Revogar acesso
